@@ -18,7 +18,7 @@ st.write("2026: BTS en Geomatique")
 
 st.subheader("Projets académiques")
 st.write("Conception de bases de données géographiques")
-st.write("Réalisation d’analyses spatiales (buffer, intersection, superposition"))
+st.write("Réalisation d’analyses spatiales (buffer, intersection, superposition)")
 st.write("Traitement de données topographiques")
 st.write("Traitement d'images dans Agisoft et Pix4D Capture")
 st.write("Projet Intégrateur")
@@ -36,6 +36,7 @@ st.write("Maitrise avancée du Pack Office (EXCEL pour le traitement de données
 st.subheader("Objectifs générales")
 st.write("Mettre mes compétences en analyse spatiale au service des projets environnementaux, urbains et territoriaux afin d’aider à la prise de décision.")
 st.write("Specialiste Géomatique")
+
 
 
 
