@@ -1,7 +1,6 @@
 import streamlit as st
 
 with st.sidebar:
-    st.image("")
     st.write("Sokhna Maimouna Keita")
     st.write("CONTACTS")
     st.write("Email: maimounakeita505@gmail.com")
@@ -37,6 +36,7 @@ st.write("Maitrise avancée du Pack Office (EXCEL pour le traitement de données
 st.subheader("Objectifs générales")
 st.write("Mettre mes compétences en analyse spatiale au service des projets environnementaux, urbains et territoriaux afin d’aider à la prise de décision.")
 st.write("Specialiste Géomatique")
+
 
 
 
