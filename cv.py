@@ -1,6 +1,7 @@
 import streamlit as st
 
 with st.sidebar:
+    st.image("")
     st.write("Sokhna Maimouna Keita")
     st.write("CONTACTS")
     st.write("Email: maimounakeita505@gmail.com")
@@ -17,11 +18,11 @@ st.write("2024: BAC L2")
 st.write("2026: BTS en Geomatique") 
 
 st.subheader("Projets académiques")
-st.write("Conception de bases de données géographiques")
-st.write("Réalisation d’analyses spatiales (buffer, intersection, superposition)")
-st.write("Traitement de données topographiques")
-st.write("Traitement d'images dans Agisoft et Pix4D Capture")
-st.write("Projet Intégrateur")
+st.write("*Concevoir des bases de données géographiques")
+st.write("*Réaliser des analyses spatiales (buffer, intersection, superposition)")
+st.write("*Traiter des données topographiques")
+st.write("*Traiter des images dans Agisoft et Pix4D Capture")
+st.write("*Planifier le Projet Intégrateur")
 
 st.subheader("Compétences")
 st.write("Conception de base de données sur QUANTUM GIS et ARCGIS")
@@ -36,6 +37,7 @@ st.write("Maitrise avancée du Pack Office (EXCEL pour le traitement de données
 st.subheader("Objectifs générales")
 st.write("Mettre mes compétences en analyse spatiale au service des projets environnementaux, urbains et territoriaux afin d’aider à la prise de décision.")
 st.write("Specialiste Géomatique")
+
 
 
 
