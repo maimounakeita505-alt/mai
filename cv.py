@@ -4,13 +4,13 @@ with st.sidebar:
     st.write("CONTACTS")
     st.write("Email: maimounakeita505@gmail.com")
     st.write("Adresse: BOPP, rue 1, Villa 100")
-st.divider()
 
 st.markdown("## FORMATIONS")
 st.markdown("""
 _2024: Baccalauréat L2
 _2026: BTS en Géomatique
 """)
+st.divider()
 
 st.header("Sokhna Maimouna Keita")
 
@@ -36,6 +36,7 @@ st.write("*Maitrise avancée du Pack Office (EXCEL pour le traitement de donnée
 st.subheader("Objectifs générales")
 st.write("Mettre mes compétences en analyse spatiale au service des projets environnementaux, urbains et territoriaux afin d’aider à la prise de décision.")
 st.write("Specialiste Géomatique")
+
 
 
 
