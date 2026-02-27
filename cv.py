@@ -1,12 +1,11 @@
 import streamlit as st
 
 with st.sidebar:
-    st.write("Sokhna Maimouna Keita")
     st.write("CONTACTS")
     st.write("Email: maimounakeita505@gmail.com")
     st.write("Adresse: BOPP, rue 1, Villa 100")
 
-st.header("curriculum Vitae")
+st.header("Sokhna Maimouna Keita")
 
 st.subheader("Profil professionnel")
 st.write("Etudiante en Géomatique, Passionnée par la Photogrammétrie, la télédetection et la Cartographie, je suis une personne ambitieuse dotée d'une capacité à être attentive aux details pour mener à bien mes projets")
@@ -34,6 +33,7 @@ st.write("*Maitrise avancée du Pack Office (EXCEL pour le traitement de donnée
 st.subheader("Objectifs générales")
 st.write("Mettre mes compétences en analyse spatiale au service des projets environnementaux, urbains et territoriaux afin d’aider à la prise de décision.")
 st.write("Specialiste Géomatique")
+
 
 
 
